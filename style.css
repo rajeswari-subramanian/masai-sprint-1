@@ -134,7 +134,7 @@
     }
     
     #heal{
-        background-image: url(resources/heal1.jpg);background-size: contain;height: 100%;
+        background-image: url(path/to/heal1.jpg);background-size: contain;height: 100%;
     }
     #heal1{
         display: flex;color: #F7E4D3;  font-family: 'Open Sans', sans-serif;padding: 100px;text-align: center;font-size: 20px; 
